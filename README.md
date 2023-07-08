@@ -19,6 +19,8 @@ dependencies {
 > In Main Kotlin
 
 ```Kotlin
+import mohamed.tamer.Calculations
+
 fun main(args: Array<String>) {
     println(Calculations().sum(5,20))
 }
